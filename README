@@ -1,0 +1,8 @@
+Apache HTTPD with Forward Proxy (HTTP CONNECT)
+==============================================
+
+Simple httpd.conf with forward proxy support enabled to allow testing of HTTP
+CONNECT proxying.
+
+This enables it with 0 security, please do not use this in a sensitive
+location where it is reachable by the world.
